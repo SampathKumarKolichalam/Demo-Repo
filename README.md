@@ -1,4 +1,4 @@
 # Demo-Repo
 This is demo repo for practise.
 <br>
-It was created by Sampath Kumar Kolichalam.
+It was created by Sampath Kumar Kolichalam(Kent State University).
